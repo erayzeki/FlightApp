@@ -1,0 +1,51 @@
+Frankfurt- - - - - - - - - - ->Izmir
+AIRLINE:TURKISH AIRLINES     FN:500
+AIRCRAFT:AIRBUS A380
+Take-Off/Landing: 0:10:0 -- 0:15:0
+Departure Date:1/1/2000
+Arrival Date: 1/1/2000
+Landing Delay: 0minutes 
+ 
+ 
+ 
+Izmir- - - - - - - - - - ->Ankara
+AIRLINE:TURKISH AIRLINES     FN:501
+AIRCRAFT:AIRBUS A380
+Take-Off/Landing: 0:10:0 -- 0:15:0
+Departure Date:1/1/2000
+Arrival Date: 1/1/2000
+Landing Delay: 0minutes 
+ 
+ 
+ 
+Munchen- - - - - - - - - - ->Istanbul
+AIRLINE:TURKISH AIRLINES     FN:503
+AIRCRAFT:AIRBUS A380
+Take-Off/Landing: 0:10:0 -- 0:15:0
+Departure Date:1/1/2000
+Arrival Date: 1/1/2000
+Landing Delay: 0minutes 
+ 
+ 
+ 
+Izmir- - - - - - - - - - ->Istanbul
+AIRLINE:TURKISH AIRLINES     FN:504
+AIRCRAFT:AIRBUS A380
+Take-Off/Landing: 0:10:0 -- 0:15:0
+Departure Date:1/1/2000
+Arrival Date: 1/1/2000
+Landing Delay: 0minutes 
+ 
+ 
+ 
+Ankara- - - - - - - - - - ->Munchen
+AIRLINE:TURKISH AIRLINES     FN:502
+AIRCRAFT:AIRBUS A380
+Take-Off/Landing: 0:10:0 -- 0:15:0
+Departure Date:1/1/2000
+Arrival Date: 1/1/2000
+Landing Delay: 21minutes 
+ 
+ 
+ 
+
